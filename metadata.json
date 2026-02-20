@@ -1,0 +1,7 @@
+{
+  "name": "PlayableGenie",
+  "description": "An AI-powered game development studio designed to help Angie create YouTube Playables (HTML5 games) for children. Features instant code generation, live preview, and export capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
